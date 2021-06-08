@@ -1,5 +1,5 @@
 ---
-title: Use Ethereum Applications (dapps)
+title: Use Digital Bureaucracy Applications (dapps)
 description: The basic information you need to get started using Ethereum.
 lang: tr
 ---
