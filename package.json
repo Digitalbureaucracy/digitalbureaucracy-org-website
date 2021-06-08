@@ -1,9 +1,9 @@
 {
   "name": "digitalbureaucracy-org-website",
   "version": "2.30.0",
-  "description": "Website of ethereum.org",
+  "description": "Website of digitalbureaucracy.org",
   "main": "index.js",
-  "repository": "git@github.com:ethereum/ethereum-org-website.git",
+  "repository": "git@github.com:Digitalbureaucracy/digitalbureaucracy-org-website.git",
   "author": "Sam Richards <sam.richards@ethereum.org>",
   "license": "MIT",
   "private": false,
