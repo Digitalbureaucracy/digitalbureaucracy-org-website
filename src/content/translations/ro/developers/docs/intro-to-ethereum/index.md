@@ -101,7 +101,7 @@ Un fragment reutilizabil de cod (un program) pe care un programator îl publică
 
 ## Referințe suplimentare {#further-reading}
 
-- [Ethereum Whitepaper](/whitepaper/)
+- [Digital Bureaucracy Whitepaper](/whitepaper/)
 
 ## Tutoriale corelate {#related-tutorials}
 

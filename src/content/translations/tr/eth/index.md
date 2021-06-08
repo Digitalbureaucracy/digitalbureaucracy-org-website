@@ -1,10 +1,10 @@
 ---
-title: What is ether (ETH)?
-description: The basic information you need to understand ETH.
+title: What is (DBC)?
+description: The basic information you need to understand DBC.
 lang: tr
 ---
 
-# What is ether (ETH)? {#what-is-ether-eth}
+# What is (DBC)? {#what-is-ether-eth}
 
 <div class="featured">
 

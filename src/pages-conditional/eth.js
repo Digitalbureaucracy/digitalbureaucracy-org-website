@@ -290,7 +290,7 @@ const WhatIsEthereumPage = (props) => {
               <Translation id="page-eth-currency-for-apps" />
             </SubtitleTwo>
             <StyledEthPriceCard />
-            <ButtonLink to="/get-eth/" title="where to buy eth">
+            <ButtonLink to="/get-eth/" title="where to buy dbc">
               <Translation id="page-eth-button-buy-eth" />
             </ButtonLink>
           </Header>

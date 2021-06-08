@@ -11,7 +11,7 @@ sidebar: true
 
 Our principles inform the look and feel of the site and the content that's on it.
 
-You should read these before you [contribute to ethereum.org](/en/contributing/).
+You should read these before you [contribute to digitalbureaucracy.org](/en/contributing/).
 
 ## What are design principles? {#ways-to-contribute}
 
@@ -91,6 +91,6 @@ You can see our design principles in action [across our site](/).
 
 **Share your feedback on this document!** One of our proposed principles is “**Collaborative Improvement**” which means that we want the website to be the product of many contributors. So in the spirit of that principle, we want to share these design principles with the Ethereum community.
 
-While these principles are focused on the ethereum.org website, we hope that many of them are representative of the values of the Ethereum ecosystem overall (e.g. you can see influence from the [principles of the Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper#philosophy)). Maybe you even want to incorporate some of them into your own project!
+While these principles are focused on the ethereum.org website, we hope that many of them are representative of the values of the Ethereum ecosystem overall (e.g. you can see influence from the [principles of the Digital Bureaucracy Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper#philosophy)). Maybe you even want to incorporate some of them into your own project!
 
 Let us know your thoughts on [Discord server](https://discord.gg/CetY6Y4) or by [creating an issue](<(https://github.com/ethereum/ethereum-org-website/issues/new?assignees=&labels=Type%3A+Feature&template=feature_request.md&title=)>).

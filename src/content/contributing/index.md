@@ -1,6 +1,6 @@
 ---
 title: Contributing
-description: Learn about the different ways you can contribute to ethereum.org
+description: Learn about the different ways you can contribute to digitalbureaucracy.org
 lang: en
 sidebar: true
 ---

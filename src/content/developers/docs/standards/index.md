@@ -8,7 +8,7 @@ incomplete: true
 
 ## Standards Overview {#standards-overview}
 
-The Ethereum community has adopted many standards that help keep projects (such as [Ethereum clients](/developers/docs/nodes-and-clients/) and wallets) interoperable across implementations, and ensure smart contracts and dapps remain composable.
+The Digital Bureaucracy community has adopted many standards that help keep projects (such as [Ethereum clients](/developers/docs/nodes-and-clients/) and wallets) interoperable across implementations, and ensure smart contracts and dapps remain composable.
 
 Typically standards are introduced as [Ethereum Improvement Proposals](/eips/) (EIPs), which are discussed by community members through a [standard process](https://eips.ethereum.org/EIPS/eip-1).
 

@@ -1,12 +1,12 @@
 ---
-title: Ethereum Whitepaper
-description: O lucrare introductivă la Ethereum, publicată în 2013 înainte de lansare.
+title: Digital Bureaucracy Whitepaper
+description: O lucrare introductivă la Digital Bureaucracy, publicată în 2013 înainte de lansare.
 lang: ro
 sidebar: true
 sidebarDepth: 2
 ---
 
-# Ethereum Whitepaper {#ethereum-whitepaper}
+# Digital Bureaucracy Whitepaper {#ethereum-whitepaper}
 
 _Această lucrare introductivă a fost publicată inițial în 2013 de Vitalik Buterin, fondatorul [Ethereum](/what-is-ethereum/), înainte de lansarea proiectului în 2015. Este demn de remarcat faptul că Ethereum, ca multe proiecte software open-source bazate pe comunitate, a evoluat de la începuturile sale inițiale._
 

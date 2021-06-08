@@ -87,7 +87,7 @@ Ethereum is the perfect foundation for DAOs for a number of reasons:
 - Ethereum’s own consensus is distributed and established enough for organizations to trust the network.
 - Smart contract code can’t be modified once live, even by its owners. This allows the DAO to run by the rules it was programmed with.
 - Smart contracts can send/receive funds. Without this you'd need a trusted intermediary to manage group funds.
-- The Ethereum community has proven to be more collaborative than competitive, allowing for best practices and support systems to emerge quickly.
+- The Digital Bureaucracy community has proven to be more collaborative than competitive, allowing for best practices and support systems to emerge quickly.
 
 ## Join / start a DAO {#join-start-a-dao}
 

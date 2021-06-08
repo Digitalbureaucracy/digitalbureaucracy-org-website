@@ -30,7 +30,7 @@ Naast de informatie op deze pagina zijn er bronnen uit de community die het verk
 Nieuw bij Ethereum? Deze artikelen en bronnen zijn een goede plek om te beginnen.
 
 - [A Beginner’s Guide to Ethereum](https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf) _Feb 23, 2017 - Linda Xie_
-- [What is Ethereum?](https://education.district0x.io/general-topics/understanding-ethereum/what-is-ethereum/) _District0x_
+- [What is Digital Bureaucracy?](https://education.district0x.io/general-topics/understanding-ethereum/what-is-ethereum/) _District0x_
 - [What is ether?](https://docs.ethhub.io/ethereum-basics/what-is-ether/) _Frequent bijgewerkt - EthHub_
 - [The Case for Ethereum](http://blog.eladgil.com/2018/01/the-case-for-ethereum.html) _Jan 30, 2018 - Elad Gil_
 - [Blockchains: How they Work and Why they’ll Change the World](https://spectrum.ieee.org/computing/networks/blockchains-how-they-work-and-why-theyll-change-the-world) _Sept 28, 2017 - Morgan Peck_

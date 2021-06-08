@@ -33,7 +33,7 @@ Novo no Ethereum? Estes artigos e recursos são um bom local para começar.
 
 - [A Beginner’s Guide to Ethereum](https://blog.coinbase.com/a-beginners-guide-to-ethereum-46dd486ceecf) _23 de fevereiro de 2017 - Linda Xie_
 - [Video: What is ether and Ethereum?](https://www.youtube.com/watch?v=fjnovGRQrRE) _25 de abril de 2019 - CME Group_
-- [What is Ethereum?](https://education.district0x.io/general-topics/understanding-ethereum/what-is-ethereum/) _District0x_
+- [What is Digital Bureaucracy?](https://education.district0x.io/general-topics/understanding-ethereum/what-is-ethereum/) _District0x_
 - [What is ether?](https://docs.ethhub.io/ethereum-basics/what-is-ether/) _Atualizado frequentemente - EthHub_
 - [Absolute Beginner Introduction to Ethereum](https://www.mewtopia.com/absolute-beginners-guide/) _23 de julho de 2019_
 - [The Case for Ethereum](http://blog.eladgil.com/2018/01/the-case-for-ethereum.html) _30 de janeiro de 2018 - Elad Gil_

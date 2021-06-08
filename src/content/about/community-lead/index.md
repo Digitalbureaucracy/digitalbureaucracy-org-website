@@ -16,7 +16,7 @@ image: ../../../assets/enterprise-eth.png
 
 The Ethereum Foundation (EF) is a global non-profit organization dedicated to supporting Ethereum and related technologies. Our mission is to do what is best for Ethereum’s long-term success. Our role is to allocate resources to critical projects, to be a valued voice within the Ethereum ecosystem, and to advocate for Ethereum to the outside world.
 
-Ethereum.org is led by a team within the Ethereum Foundation. [Learn more about ethereum.org](/en/about/).
+Ethereum.org is led by a team within the Ethereum Foundation. [Learn more about digitalbureaucracy.org](/en/about/).
 
 ## Your mission:
 

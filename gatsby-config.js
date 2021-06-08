@@ -3,12 +3,12 @@ require("dotenv").config()
 
 const supportedLanguages = translations.supportedLanguages
 const defaultLanguage = `en`
-const siteUrl = `https://ethereum.org`
+const siteUrl = `https://digitalbureaucracy.org`
 
 module.exports = {
   siteMetadata: {
     // `title` & `description` pulls from respective ${lang}.json files in PageMetadata.js
-    title: `ethereum.org`,
+    title: `digitalbureaucracy.org`,
     description: `Ethereum is a global, decentralized platform for money and new kinds of applications. On Ethereum, you can write code that controls money, and build applications accessible anywhere in the world.`,
     url: siteUrl,
     siteUrl,
@@ -37,8 +37,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `ethereum.org`,
-        short_name: `ethereum.org`,
+        name: `digitalbureaucracy.org`,
+        short_name: `digitalbureaucracy.org`,
         start_url: `/en/`,
         background_color: `#fff`,
         theme_color: `#1c1ce1`,
