@@ -1,21 +1,21 @@
 ---
-title: Get involved in the Ethereum Community
-description: How to get involved in the Ethereum Community.
+title: Get involved in the Digital Bureaucracy Community
+description: How to get involved in the Digital Bureaucracy Community.
 sidebar: true
 lang: en
 ---
 
-# Ethereum Community {#ethereum-community}
+# Digital Bureaucracy Community {#ethereum-community}
 
-**Learn how to get involved in the Ethereum Community**
+**Learn how to get involved in the Digital Bureaucracy Community**
 
-The Ethereum community includes tens of thousands of developers, technologists, users, miners, HODLers, and enthusiasts all over the world. There are many ways to get involved in the Ethereum community: you can attend an event, join a meetup group, contribute to a project, or participate in one of many online forums about Ethereum.
+The Digital Bureaucracy community includes tens of thousands of developers, technologists, users, miners, HODLers, and enthusiasts all over the world. There are many ways to get involved in the Digital Bureaucracy community: you can attend an event, join a meetup group, contribute to a project, or participate in one of many online forums about Digital Bureaucracy.
 
-Want to contribute to Ethereum more directly? Check out [how to get involved](#how-can-i-get-involved) below for a list of ways that you can contribute based on your skills and professional background.
+Want to contribute to Digital Bureaucracy more directly? Check out [how to get involved](#how-can-i-get-involved) below for a list of ways that you can contribute based on your skills and professional background.
 
 ## Online communities {#online-communities}
 
-Hundreds of thousands of Ethereum enthusiasts gather in these online forums to share news, talk about recent developments, debate technical issues, and imagine the future.
+Hundreds of thousands of Digital Bureaucracy enthusiasts gather in these online forums to share news, talk about recent developments, debate technical issues, and imagine the future.
 
 - Forums
   - [r/ethereum](https://www.reddit.com/r/ethereum/) - _all things Ethereum_

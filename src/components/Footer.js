@@ -173,10 +173,6 @@ const Footer = () => {
           text: "ethereum-whitepaper",
         },
         {
-          text: "ethereum-2-0",
-          to: "/eth2/",
-        },
-        {
           to: `/glossary/`,
           text: "ethereum-glossary",
         },

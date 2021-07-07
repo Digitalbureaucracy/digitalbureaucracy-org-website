@@ -203,10 +203,6 @@ const Nav = ({ handleThemeChange, isDarkTheme, path }) => {
           to: "/whitepaper/",
         },
         {
-          text: "ethereum-2-0",
-          to: "/eth2/",
-        },
-        {
           text: "ethereum-glossary",
           to: "/glossary/",
         },

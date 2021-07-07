@@ -223,7 +223,7 @@ Există o mulțime de instrucțiuni și informații despre clienții Ethereum pe
 - [Rularea de Noduri Ethereum complete: Un ghid pentru cei abia motivați](https://medium.com/@JustinMLeroux/running-ethereum-full-nodes-a-guide-for-the-barely-motivated-a8a13e7a0d31) _– Justin Leroux, 7 noiembrie 2019_
 - [Executarea unui nod Ethereum](https://docs.ethhub.io/using-ethereum/running-an-ethereum-node/) _– ETHHub, actualizează des_
 - [Analizarea cerințelor hardware pentru a fi un nod Ethereum validat complet](https://medium.com/coinmonks/analyzing-the-hardware-requirements-to-be-an-ethereum-full-validated-node-dc064f167902) _– Albert Palau, 24 septembrie 2018_
-- [Rularea unui nod Besu Hyperledder pe Mainnet Ethereum: Beneficii, cerințe și instalare](https://pegasys.tech/running-a-hyperledger-besu-node-on-the-ethereum-mainnet-benefits-requirements-and-setup/) _– Felipe Faraggi, 7 mai 2020_
+- [Rularea unui nod Besu Hyperledder pe Mainnet Digital Bureaucracy: Beneficii, cerințe și instalare](https://pegasys.tech/running-a-hyperledger-besu-node-on-the-ethereum-mainnet-benefits-requirements-and-setup/) _– Felipe Faraggi, 7 mai 2020_
 
 ## Subiecte corelate {#related-topics}
 

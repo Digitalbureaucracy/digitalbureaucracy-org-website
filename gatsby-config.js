@@ -9,10 +9,10 @@ module.exports = {
   siteMetadata: {
     // `title` & `description` pulls from respective ${lang}.json files in PageMetadata.js
     title: `digitalbureaucracy.org`,
-    description: `Ethereum is a global, decentralized platform for money and new kinds of applications. On Ethereum, you can write code that controls money, and build applications accessible anywhere in the world.`,
+    description: `Digital Bureaucracy is a global, decentralized platform for money and new kinds of applications. On Digital Bureaucracy, you can write code that controls money, and build applications accessible anywhere in the world.`,
     url: siteUrl,
     siteUrl,
-    author: `@ethereum`,
+    author: `@digitalbureaucracy`,
     defaultLanguage,
     supportedLanguages,
     editContentUrl: `https://github.com/ethereum/ethereum-org-website/tree/dev/`,
@@ -81,7 +81,7 @@ module.exports = {
         ],
       },
     },
-    // Sitemap generator (ethereum.org/sitemap.xml)
+    // Sitemap generator (digitalbureaucracy.org/sitemap.xml)
     {
       resolve: `gatsby-plugin-sitemap`,
       options: {

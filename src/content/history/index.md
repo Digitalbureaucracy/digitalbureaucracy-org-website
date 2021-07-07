@@ -6,7 +6,7 @@ sidebar: true
 sidebarDepth: 1
 ---
 
-# The history of Ethereum {#the-history-of-ethereum}
+# The history of Digital Bureaucracy {#the-history-of-ethereum}
 
 A timeline of all the major milestones, forks, and updates to the Ethereum blockchain.
 

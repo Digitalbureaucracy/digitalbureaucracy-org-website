@@ -210,7 +210,7 @@ const meetups = [
     link: "https://www.meetup.com/Ethereum-Los-Angeles/",
   },
   {
-    title: "Ethereum Community NYC",
+    title: "Digital Bureaucracy Community NYC",
     emoji: ":us:",
     location: "New York City",
     link: "https://www.meetup.com/ConsenSys-Ethereum-Meetup/",

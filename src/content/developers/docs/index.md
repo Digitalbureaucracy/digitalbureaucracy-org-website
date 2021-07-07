@@ -1,17 +1,17 @@
 ---
-title: Ethereum development documentation
-description: Introducing the ethereum.org developer documentation.
+title: Digital Bureaucracy development documentation
+description: Introducing the digitalbureaucracy.org developer documentation.
 lang: en
 sidebar: true
 ---
 
-This documentation is designed to help you build with Ethereum. It covers Ethereum as a concept, explains the Ethereum tech stack, and documents advanced topics for more complex applications and use cases.
+This documentation is designed to help you build with Digital Bureaucracy. It covers Digital Bureaucracy as a concept, explains the Digital Bureaucracy tech stack, and documents advanced topics for more complex applications and use cases.
 
 This is an open-source community effort, so feel free to suggest new topics, add new content, and provide examples wherever you think it might be helpful. All documentation is editable via GitHub – if you're unsure how, [follow these instructions](https://github.com/ethereum/ethereum-org-website/blob/dev/README.md).
 
 ## Development modules {#development-modules}
 
-If this is your first attempt at Ethereum development, we recommend starting at the beginning and working your way through like a book.
+If this is your first attempt at Digital Bureaucracy development, we recommend starting at the beginning and working your way through like a book.
 
 ### Fundamental topics {#fundamental-topics}
 
